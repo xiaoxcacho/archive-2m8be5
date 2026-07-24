@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xiaoxcacho.github.io/archive-2m8be5/sitemap.xml
